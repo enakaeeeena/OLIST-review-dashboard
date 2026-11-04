@@ -21,6 +21,7 @@
 
 ### Страница 2. Клиенты и отзывы (Customers & Reviews)
 
+<img width="1200" height="677" alt="image" src="https://github.com/user-attachments/assets/05bc0051-1252-4db6-b5d1-345ca43b6a39" />
 
 
 На странице представлены:
