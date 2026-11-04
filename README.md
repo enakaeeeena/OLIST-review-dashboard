@@ -6,7 +6,8 @@
 
 ### Страница 1. Обзор бизнеса (Business Overview)
 
-<img width="1202" height="675" alt="image" src="https://github.com/user-attachments/assets/cd84dcfb-1ade-4f5f-9529-f78cf5bb7a5b" />
+<img width="1204" height="675" alt="image" src="https://github.com/user-attachments/assets/44b62d36-7608-4885-a576-0b00805e6b66" />
+
 
 
 На странице представлены:
